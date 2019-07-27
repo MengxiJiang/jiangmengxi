@@ -1,7 +1,7 @@
 # Mengxi Jiang （江梦茜）
 Xiamen University, China.
 
-<table border="0">
+<table border="0" align="right">
   <tr>
     <td width="25%">
       <img src="/jiangmengxi.jpg" width="100%"> 
