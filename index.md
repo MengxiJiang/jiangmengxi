@@ -1,11 +1,11 @@
-##Mengxi Jiang （江梦茜）
-<table border="0">
+## Mengxi Jiang （江梦茜）
+<table border="0" >
   <tr>
     <td width="75%">
       <p><b>Xiamen University, China.</b></p>
     </td>
     <td width="25%">
-      <img src="/jiangmengxi.jpg" width="50%">  
+      <img src="/jiangmengxi.jpg" width="100%">  
     </td>
   </tr>
 </table>
