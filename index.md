@@ -4,14 +4,7 @@ Xiamen University, China.
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/jiangmengxi.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="/jiangmengxi.jpg" width="100%">      % 插入证件照代码
+      <img src="/jiangmengxi.jpg" width="100%"> 
     </td>
   </tr>
 </table>
