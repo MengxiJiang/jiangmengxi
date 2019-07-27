@@ -12,4 +12,8 @@ Xiamen University, China.
 </table>
 
 ## Publications
-\item Mengxi Jiang, ZhuliangYu, Yan Zhang, Qicong Wanga, Cuihua Li, Yunqi Lei*. Reweighted sparse representation with residual compensation for 3D human pose estimation from a single RGB image. Neurocomputing. 2019. 9(358): 332-343. 
+<ul>
+<li>Mengxi Jiang, ZhuliangYu, Yan Zhang, Qicong Wanga, Cuihua Li, Yunqi Lei*. Reweighted sparse representation with residual compensation for 3D human pose estimation from a single RGB image. Neurocomputing. 2019. 9(358): 332-343. </li>
+</ul>
+
+
