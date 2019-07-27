@@ -5,7 +5,7 @@
       <p><b>Xiamen University, China.</b></p>
     </td>
     <td width="25%">
-      <img src="/jiangmengxi.jpg" width="30%">      % 插入证件照代码
+      <img src="/jiangmengxi.jpg" width="20%">  
     </td>
   </tr>
 </table>
