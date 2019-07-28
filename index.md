@@ -18,5 +18,5 @@ Xiamen University, China.
 </ul>
 
 ## Contact
-<a href="mailto:jiangmengxi@stu.xmu.edu.cn">jiangmengxi@stu.xmu.edu.cn</a>
+<a href="mailto:jiangmengxi@stu.xmu.edu.cn">jiangmengxi@stu.xmu.edu.cn</a><\br>
 <a href="mailto:fjjmx@foxmail.com">fjjmx@foxmail.com</a>
