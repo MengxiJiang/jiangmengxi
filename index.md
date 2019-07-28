@@ -16,5 +16,6 @@ Xiamen University, China.
 <li><b>Mengxi Jiang</b>, ZhuliangYu, Yan Zhang, Qicong Wanga, Cuihua Li, Yunqi Lei*. Reweighted sparse representation with residual compensation for 3D human pose estimation from a single RGB image. Neurocomputing. 2019. 9(358): 332-343. </li>  
 <li><b>Mengxi Jiang</b>, ZhuliangYu, Cuihua Li, Yunqi Lei*. Joint Representation of Multiple Geometric Priors via a Shape Decomposition Model for Single Monocular 3D Pose Estimation. In Arxiv, 2019.</li>
 </ul>
-
-
+## Contact
+jiangmengxi@stu.xmu.edu.cn
+fjjmx@foxmail.com
