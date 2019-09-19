@@ -18,9 +18,7 @@ Xiamen University, China.
 </ul>
 ## Honors and Awards
 <ul>
-  <li>
-     2015 China National Scholarship for Graduate Students
-  </li>
+  <li> 2015 China National Scholarship for Graduate Students </li>
 </ul>
 ## Contact
 <a href="mailto:jiangmengxi@stu.xmu.edu.cn">jiangmengxi@stu.xmu.edu.cn</a>, <a href="mailto:fjjmx@foxmail.com">fjjmx@foxmail.com</a>
