@@ -4,7 +4,7 @@ Xiamen University, China.
   <tr>
     <td width="75%">
       <h2>About Me</h2>
-      <p><b>I am currently a fourth-year PhD student in computing science and technology at Xiamen University. My research interests are in explorations of security and attack of machine learning models on 3D geometry tasks. Now, I was a visiting PhD student at the School of Computer Science, University of Technology Sydney (UTS), under the supervision of <a href="https://yuleisui.github.io/">Dr. Yulei Sui.</a></b></p>    </td>
+      <p><b>I am currently a fourth-year PhD student in computing science and technology at Xiamen University. My research interests are in explorations of security and attack of machine learning models on 3D geometry tasks. I was a visiting PhD student at the School of Computer Science, University of Technology Sydney (UTS), under the supervision of <a href="https://yuleisui.github.io/">Dr. Yulei Sui.</a></b></p>    </td>
     <td width="35%">
       <img src="jiangmengxi.jpg" width="100%">  
     </td>
